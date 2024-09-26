@@ -1,0 +1,17 @@
+# Test your FastAPI endpoints
+# Test universities API
+
+GET http://127.0.0.1:8000/universities
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/universities/1
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/universities/region/Provence-Alpes-Côte d'Azur
+Accept: application/json
+
+###

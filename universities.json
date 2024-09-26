@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Université d'Aix-Marseille",
+    "website": "https://www.univ-amu.fr/",
+    "institution_type": "Université",
+    "academy": "Aix-Marseille",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "department": "Bouches-du-Rhône",
+    "city": "Marseille"
+  },
+  {
+    "id": 2,
+    "name": "Université d'Angers",
+    "website": "https://www.univ-angers.fr/",
+    "institution_type": "Université",
+    "academy": "Nantes",
+    "region": "Pays de la Loire",
+    "department": "Maine-et-Loire",
+    "city": "Angers"
+  },
+  {
+    "id": 3,
+    "name": "Université d'Antilles",
+    "website": "https://www.univ-antilles.fr/",
+    "institution_type": "Université",
+    "academy": "Guadeloupe",
+    "region": "Guadeloupe",
+    "department": "Guadeloupe",
+    "city": "Pointe-à-Pitre"
+  },
+  {
+    "id": 4,
+    "name": "Université d'Artois",
+    "website": "https://www.univ-artois.fr/",
+    "institution_type": "Université",
+    "academy": "Lille",
+    "region": "Hauts-de-France",
+    "department": "Pas-de-Calais",
+    "city": "Arras"
+  },
+  {
+    "id": 5,
+    "name": "Université d'Avignon",
+    "website": "https://www.univ-avignon.fr/",
+    "institution_type": "Université",
+    "academy": "Aix-Marseille",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "department": "Vaucluse",
+    "city": "Avignon"
+  },
+  {
+    "id": 6,
+    "name": "Université de Bordeaux",
+    "website": "https://www.u-bordeaux.fr/",
+    "institution_type": "Université",
+    "academy": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "department": "Gironde",
+    "city": "Bordeaux"
+  },
+  {
+    "id": 7,
+    "name": "Université de Bordeaux Montaigne",
+    "website": "https://www.u-bordeaux-montaigne.fr/",
+    "institution_type": "Université",
+    "academy": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "department": "Gironde",
+    "city": "Pessac"
+  },
+  {
+    "id": 8,
+    "name": "Université de Bretagne Occidentale",
+    "website": "https://www.univ-brest.fr/",
+    "institution_type": "Université",
+    "academy": "Rennes",
+    "region": "Bretagne",
+    "department": "Finistère",
+    "city": "Brest"
+  },
+  {
+    "id": 9,
+    "name": "Université de Bretagne Sud",
+    "website": "https://www.univ-ubs.fr/",
+    "institution_type": "Université",
+    "academy": "Rennes",
+    "region": "Bretagne",
+    "department": "Morbihan",
+    "city": "Lorient"
+  },
+  {
+    "id": 10,
+    "name": "Université de Bourgogne",
+    "website": "https://www.u-bourgogne.fr/",
+    "institution_type": "Université",
+    "academy": "Dijon",
+    "region": "Bourgogne-Franche-Comté",
+    "department": "Côte-d'Or",
+    "city": "Dijon"
+  },
+  {
+    "id": 11,
+    "name": "Université Caen Normandie",
+    "website": "https://www.unicaen.fr/",
+    "institution_type": "Université",
+    "academy": "Normandie",
+    "region": "Normandie",
+    "department": "Calvados",
+    "city": "Caen"
+  },
+  {
+    "id": 12,
+    "name": "CY Cergy Paris Université",
+    "website": "https://www.cyu.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Versailles",
+    "region": "Île-de-France",
+    "department": "Val-d'Oise",
+    "city": "Cergy"
+  },
+  {
+    "id": 13,
+    "name": "Université Claude Bernard Lyon 1",
+    "website": "https://www.univ-lyon1.fr/",
+    "institution_type": "Université",
+    "academy": "Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Rhône",
+    "city": "Villeurbanne"
+  },
+  {
+    "id": 14,
+    "name": "Université Clermont Auvergne",
+    "website": "https://www.uca.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Clermont-Ferrand",
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Puy-de-Dôme",
+    "city": "Clermont-Ferrand"
+  },
+  {
+    "id": 15,
+    "name": "Università di Corsica Pasquale Paoli",
+    "website": "https://www.universita.corsica/",
+    "institution_type": "Université",
+    "academy": "Corse",
+    "region": "Corse",
+    "department": "Corse-du-Sud",
+    "city": "Corte"
+  },
+  {
+    "id": 16,
+    "name": "Université de Côte d'Azur",
+    "website": "https://univ-cotedazur.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Nice",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "department": "Alpes-Maritimes",
+    "city": "Nice"
+  },
+  {
+    "id": 17,
+    "name": "Université d'Évry-Val-d'Essonne",
+    "website": "https://www.univ-evry.fr/",
+    "institution_type": "Université",
+    "academy": "Versailles",
+    "region": "Île-de-France",
+    "department": "Essonne",
+    "city": "Évry-Courcouronnes"
+  },
+  {
+    "id": 18,
+    "name": "Université Franche-Comté",
+    "website": "https://www.univ-fcomte.fr/",
+    "institution_type": "Université",
+    "academy": "Besançon",
+    "region": "Bourgogne-Franche-Comté",
+    "department": "Doubs",
+    "city": "Besançon"
+  },
+  {
+    "id": 19,
+    "name": "Université Grenoble Alpes",
+    "website": "https://www.univ-grenoble-alpes.fr/",
+    "institution_type": "Grand établissement",
+    "academy": "Grenoble",
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Isère",
+    "city": "Saint-Martin-d'Hères"
+  },
+  {
+    "id": 20,
+    "name": "Université Gustave Eiffel",
+    "website": "https://www.univ-gustave-eiffel.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Créteil",
+    "region": "Île-de-France",
+    "department": "Seine-et-Marne",
+    "city": "Champs-sur-Marne"
+  },
+  {
+    "id": 21,
+    "name": "Université de Guyane",
+    "website": "https://www.univ-guyane.fr/",
+    "institution_type": "Université",
+    "academy": "Guyane",
+    "region": "Guyane",
+    "department": "Guyane",
+    "city": "Cayenne"
+  },
+  {
+    "id": 22,
+    "name": "Université de Haute-Alsace",
+    "website": "https://www.uha.fr/",
+    "institution_type": "Université",
+    "academy": "Strasbourg",
+    "region": "Grand Est",
+    "department": "Haut-Rhin",
+    "city": "Mulhouse"
+  },
+  {
+    "id": 23,
+    "name": "Université Jean Monnet Saint-Étienne",
+    "website": "https://www.univ-st-etienne.fr/",
+    "institution_type": "Université",
+    "academy": "Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Loire",
+    "city": "Saint-Étienne"
+  },
+  {
+    "id": 24,
+    "name": "Université Jean Moulin Lyon 3",
+    "website": "https://www.univ-lyon3.fr/",
+    "institution_type": "Université",
+    "academy": "Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Rhône",
+    "city": "Lyon"
+  },
+  {
+    "id": 25,
+    "name": "Université de La Réunion",
+    "website": "https://www.univ-reunion.fr/",
+    "institution_type": "Université",
+    "academy": "La Réunion",
+    "region": "La Réunion",
+    "department": "La Réunion",
+    "city": "Saint-Denis"
+  },
+  {
+    "id": 26,
+    "name": "Université Le Havre Normandie",
+    "website": "https://www.univ-lehavre.fr/",
+    "institution_type": "Université",
+    "academy": "Normandie",
+    "region": "Normandie",
+    "department": "Seine-Maritime",
+    "city": "Le Havre"
+  },
+  {
+    "id": 27,
+    "name": "Université du Mans",
+    "website": "https://www.univ-lemans.fr/",
+    "institution_type": "Université",
+    "academy": "Nantes",
+    "region": "Pays de la Loire",
+    "department": "Sarthe",
+    "city": "Le Mans"
+  },
+  {
+    "id": 28,
+    "name": "Université de Lille",
+    "website": "https://www.univ-lille.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Lille",
+    "region": "Hauts-de-France",
+    "department": "Nord",
+    "city": "Villeneuve-d'Ascq"
+  },
+  {
+    "id": 29,
+    "name": "Université de Limoges",
+    "website": "https://www.unilim.fr/",
+    "institution_type": "Université",
+    "academy": "Limoges",
+    "region": "Nouvelle-Aquitaine",
+    "department": "Haute-Vienne",
+    "city": "Limoges"
+  },
+  {
+    "id": 30,
+    "name": "Université du Littoral Côte d'Opale",
+    "website": "https://www.univ-littoral.fr/",
+    "institution_type": "Université",
+    "academy": "Lille",
+    "region": "Hauts-de-France",
+    "department": "Pas-de-Calais",
+    "city": "Calais"
+  },
+  {
+    "id": 31,
+    "name": "Université de Lorraine",
+    "website": "https://www.univ-lorraine.fr/",
+    "institution_type": "Grand établissement",
+    "academy": "Nancy-Metz",
+    "region": "Grand Est",
+    "department": "Meurthe-et-Moselle",
+    "city": "Nancy"
+  },
+  {
+    "id": 32,
+    "name": "Université Lumière Lyon 2",
+    "website": "https://www.univ-lyon2.fr/",
+    "institution_type": "Université",
+    "academy": "Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Rhône",
+    "city": "Bron"
+  },
+  {
+    "id": 33,
+    "name": "Université de Montpellier",
+    "website": "https://www.umontpellier.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Montpellier",
+    "region": "Occitanie",
+    "department": "Hérault",
+    "city": "Montpellier"
+  },
+  {
+    "id": 34,
+    "name": "Université de Nantes",
+    "website": "https://www.univ-nantes.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Nantes",
+    "region": "Pays de la Loire",
+    "department": "Loire-Atlantique",
+    "city": "Nantes"
+  },
+  {
+    "id": 35,
+    "name": "Université de Nîmes",
+    "website": "https://www.unimes.fr/",
+    "institution_type": "Université",
+    "academy": "Montpellier",
+    "region": "Occitanie",
+    "department": "Gard",
+    "city": "Nîmes"
+  },
+  {
+    "id": 36,
+    "name": "Université de la Nouvelle-Calédonie",
+    "website": "https://www.univ-nc.nc/",
+    "institution_type": "Université",
+    "academy": "Nouméa",
+    "region": "Nouvelle-Calédonie",
+    "department": "Nouvelle-Calédonie",
+    "city": "Nouméa"
+  },
+  {
+    "id": 37,
+    "name": "Université d'Orléans",
+    "website": "https://www.univ-orleans.fr/",
+    "institution_type": "Université",
+    "academy": "Orléans-Tours",
+    "region": "Centre-Val de Loire",
+    "department": "Loiret",
+    "city": "Orléans"
+  },
+  {
+    "id": 38,
+    "name": "Université Paul-Valéry Montpellier 3",
+    "website": "https://www.univ-montp3.fr/",
+    "institution_type": "Université",
+    "academy": "Montpellier",
+    "region": "Occitanie",
+    "department": "Hérault",
+    "city": "Montpellier"
+  },
+  {
+    "id": 39,
+    "name": "Université de Panthéon-Sorbonne",
+    "website": "https://www.pantheonsorbonne.fr/",
+    "institution_type": "Université",
+    "academy": "Paris",
+    "region": "Île-de-France",
+    "department": "Paris",
+    "city": "Paris"
+  },
+  {
+    "id": 40,
+    "name": "Université Paris Cité",
+    "website": "https://www.u-paris.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Paris",
+    "region": "Île-de-France",
+    "department": "Paris",
+    "city": "Paris"
+  },
+  {
+    "id": 41,
+    "name": "Université Paris Dauphine - PSL",
+    "website": "https://www.dauphine.psl.eu/",
+    "institution_type": "Grand établissement",
+    "academy": "Paris",
+    "region": "Île-de-France",
+    "department": "Paris",
+    "city": "Paris"
+  },
+  {
+    "id": 42,
+    "name": "Université Paris-Est Créteil Val-de-Marne",
+    "website": "https://www.u-pec.fr/",
+    "institution_type": "Université",
+    "academy": "Créteil",
+    "region": "Île-de-France",
+    "department": "Val-de-Marne",
+    "city": "Créteil"
+  },
+  {
+    "id": 43,
+    "name": "Université Paris 8 Vincennes-Saint-Denis",
+    "website": "https://www.univ-paris8.fr/",
+    "institution_type": "Université",
+    "academy": "Créteil",
+    "region": "Île-de-France",
+    "department": "Seine-Saint-Denis",
+    "city": "Saint-Denis"
+  },
+  {
+    "id": 44,
+    "name": "Université Paris Nanterre",
+    "website": "https://www.parisnanterre.fr/",
+    "institution_type": "Université",
+    "academy": "Versailles",
+    "region": "Île-de-France",
+    "department": "Hauts-de-Seine",
+    "city": "Nanterre"
+  },
+  {
+    "id": 45,
+    "name": "Université Paris-Pantéon-Assas",
+    "website": "https://www.assas-universite.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Paris",
+    "region": "Île-de-France",
+    "department": "Paris",
+    "city": "Paris"
+  },
+  {
+    "id": 46,
+    "name": "Université Paris-Saclay",
+    "website": "https://www.universite-paris-saclay.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Versailles",
+    "region": "Île-de-France",
+    "department": "Essonne",
+    "city": "Gif-sur-Yvette"
+  },
+  {
+    "id": 47,
+    "name": "Université Paris Sciences et Lettres",
+    "website": "https://www.psl.eu/",
+    "institution_type": "Grand établissement",
+    "academy": "Paris",
+    "region": "Île-de-France",
+    "department": "Paris",
+    "city": "Paris"
+  },
+  {
+    "id": 48,
+    "name": "Université de Pau et des Pays de l'Adour",
+    "website": "https://www.univ-pau.fr/",
+    "institution_type": "Université",
+    "academy": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "department": "Pyrénées-Atlantiques",
+    "city": "Pau"
+  },
+  {
+    "id": 49,
+    "name": "Université de Perpignan Via Domitia",
+    "website": "https://www.univ-perp.fr/",
+    "institution_type": "Université",
+    "academy": "Montpellier",
+    "region": "Occitanie",
+    "department": "Pyrénées-Orientales",
+    "city": "Perpignan"
+  },
+  {
+    "id": 50,
+    "name": "Université de Picardie Jules Verne",
+    "website": "https://www.u-picardie.fr/",
+    "institution_type": "Université",
+    "academy": "Amiens",
+    "region": "Hauts-de-France",
+    "department": "Somme",
+    "city": "Amiens"
+  },
+  {
+    "id": 51,
+    "name": "Université de Poitiers",
+    "website": "https://www.univ-poitiers.fr/",
+    "institution_type": "Université",
+    "academy": "Poitiers",
+    "region": "Nouvelle-Aquitaine",
+    "department": "Vienne",
+    "city": "Poitiers"
+  },
+  {
+    "id": 52,
+    "name": "Université de la Polynésie Française",
+    "website": "https://www.upf.pf/",
+    "institution_type": "Université",
+    "academy": "Polynésie française",
+    "region": "Polynésie française",
+    "department": "Polynésie française",
+    "city": "Punaauia"
+  },
+  {
+    "id": 53,
+    "name": "Université de Reims Champagne-Ardenne",
+    "website": "https://www.univ-reims.fr/",
+    "institution_type": "Université",
+    "academy": "Reims",
+    "region": "Grand Est",
+    "department": "Marne",
+    "city": "Reims"
+  },
+  {
+    "id": 54,
+    "name": "Université de La Rochelle",
+    "website": "https://www.univ-larochelle.fr/",
+    "institution_type": "Université",
+    "academy": "Poitiers",
+    "region": "Nouvelle-Aquitaine",
+    "department": "Charente-Maritime",
+    "city": "La Rochelle"
+  },
+  {
+    "id": 55,
+    "name": "Université de Rouen Normandie",
+    "website": "https://www.univ-rouen.fr/",
+    "institution_type": "Université",
+    "academy": "Normandie",
+    "region": "Normandie",
+    "department": "Seine-Maritime",
+    "city": "Mont-Saint-Aignan"
+  },
+  {
+    "id": 56,
+    "name": "Université de Rennes",
+    "website": "https://www.univ-rennes.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Rennes",
+    "region": "Bretagne",
+    "department": "Ille-et-Vilaine",
+    "city": "Rennes"
+  },
+  {
+    "id": 57,
+    "name": "Université Rennes 2",
+    "website": "https://www.univ-rennes2.fr/",
+    "institution_type": "Université",
+    "academy": "Rennes",
+    "region": "Bretagne",
+    "department": "Ille-et-Vilaine",
+    "city": "Rennes"
+  },
+  {
+    "id": 58,
+    "name": "Université Savoie Mont Blanc",
+    "website": "https://www.univ-smb.fr/",
+    "institution_type": "Université",
+    "academy": "Grenoble",
+    "region": "Auvergne-Rhône-Alpes",
+    "department": "Savoie",
+    "city": "Chambéry"
+  },
+  {
+    "id": 59,
+    "name": "Université Sorbonne Nouvelle",
+    "website": "https://www.univ-paris3.fr/",
+    "institution_type": "Université",
+    "academy": "Paris",
+    "region": "Île-de-France",
+    "department": "Paris",
+    "city": "Paris"
+  },
+  {
+    "id": 60,
+    "name": "Université Sorbonne Paris Nord",
+    "website": "https://www.univ-spn.fr/",
+    "institution_type": "Université",
+    "academy": "Créteil",
+    "region": "Île-de-France",
+    "department": "Seine-Saint-Denis",
+    "city": "Villetaneuse"
+  },
+  {
+    "id": 61,
+    "name": "Université de Strasbourg",
+    "website": "https://www.unistra.fr/",
+    "institution_type": "Université",
+    "academy": "Strasbourg",
+    "region": "Grand Est",
+    "department": "Bas-Rhin",
+    "city": "Strasbourg"
+  },
+  {
+    "id": 62,
+    "name": "Université de Toulon",
+    "website": "https://www.univ-tln.fr/",
+    "institution_type": "Université",
+    "academy": "Nice",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "department": "Var",
+    "city": "La Garde"
+  },
+  {
+    "id": 63,
+    "name": "Université de Toulouse Capitole",
+    "website": "https://www.ut-capitole.fr/",
+    "institution_type": "Établissements publics expérimentaux",
+    "academy": "Toulouse",
+    "region": "Occitanie",
+    "department": "Haute-Garonne",
+    "city": "Toulouse"
+  },
+  {
+    "id": 64,
+    "name": "Université Toulouse - Jean Jaurès",
+    "website": "https://www.univ-tlse2.fr/",
+    "institution_type": "Université",
+    "academy": "Toulouse",
+    "region": "Occitanie",
+    "department": "Haute-Garonne",
+    "city": "Toulouse"
+  },
+  {
+    "id": 65,
+    "name": "Université Toulouse III - Paul Sabatier",
+    "website": "https://www.univ-tlse3.fr/",
+    "institution_type": "Université",
+    "academy": "Toulouse",
+    "region": "Occitanie",
+    "department": "Haute-Garonne",
+    "city": "Toulouse"
+  },
+  {
+    "id": 66,
+    "name": "Université de Tours",
+    "website": "https://www.univ-tours.fr/",
+    "institution_type": "Université",
+    "academy": "Orléans-Tours",
+    "region": "Centre-Val de Loire",
+    "department": "Indre-et-Loire",
+    "city": "Tours"
+  },
+  {
+    "id": 67,
+    "name": "Université de Valenciennes et du Hainaut-Cambrésis",
+    "website": "https://www.univ-valenciennes.fr/",
+    "institution_type": "Université",
+    "academy": "Lille",
+    "region": "Hauts-de-France",
+    "department": "Nord",
+    "city": "Valenciennes"
+  },
+  {
+    "id": 68,
+    "name": "Université de Versailles Saint-Quentin-en-Yvelines",
+    "website": "https://www.uvsq.fr/",
+    "institution_type": "Université",
+    "academy": "Versailles",
+    "region": "Île-de-France",
+    "department": "Yvelines",
+    "city": "Versailles"
+  },
+  {
+    "id": 69,
+    "name": "Université polytechnique Hauts-de-France",
+    "website": "https://www.uphf.fr/",
+    "institution_type": "Université",
+    "academy": "Lille",
+    "region": "Hauts-de-France",
+    "department": "Nord",
+    "city": "Valenciennes"
+  },
+  {
+    "id": 70,
+    "name": "Sorbonne Université",
+    "website": "https://www.sorbonne-universite.fr/",
+    "institution_type": "Université",
+    "academy": "Paris",
+    "region": "Île-de-France",
+    "department": "Paris",
+    "city": "Paris"
+  }
+]
